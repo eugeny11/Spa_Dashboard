@@ -15,7 +15,7 @@
 
 ## Демонстрация
 
-![Demo](https://spa-dashboard-tau.vercel.app/)
+[Demo](https://spa-dashboard-tau.vercel.app/)
 
 ## Технологии
 
