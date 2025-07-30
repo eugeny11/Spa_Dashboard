@@ -15,7 +15,7 @@
 
 ## Демонстрация
 
-![Demo](https://your-deployment-url)
+![Demo](https://spa-dashboard-tau.vercel.app/)
 
 ## Технологии
 
@@ -31,7 +31,7 @@
 1. Клонировать репозиторий:
 
    ```bash
-   git clone https://github.com/your-username/vue3-spa-dashboard.git
+   git clone https://github.com/eugeny11/Spa_Dashboard
    ```
 2. Перейти в папку проекта:
 
@@ -78,8 +78,6 @@
 
 ## Деплой
 
-Проект развернут на бесплатном хостинге: [https://your-deployment-url](https://your-deployment-url)
+Проект развернут на бесплатном хостинге: [https://spa-dashboard-tau.vercel.app/](https://spa-dashboard-tau.vercel.app/)
 
 ---
-
-*Автор: ваше имя*
